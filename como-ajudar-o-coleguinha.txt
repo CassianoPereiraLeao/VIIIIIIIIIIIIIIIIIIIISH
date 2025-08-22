@@ -1,0 +1,5 @@
+# git pull origin main
+atualizar o repositório com o do coleguinha
+
+# git clone https://github.com/CassianoPereiraLeao/VIIIIIIIIIIIIIIIIIIIISH.git (colocar o repositório aqui)
+copia do coleguinha memo
